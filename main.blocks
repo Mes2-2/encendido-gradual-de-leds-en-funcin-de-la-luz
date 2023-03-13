@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="]@nr^To~;fGXi8in]ccJ" x="0" y="0"><statement name="HANDLER"><block type="device_clear_display" id="G!=OE5*+_$in(r9|9;[V"></block></statement></block><block type="device_forever" id="_9^:_ZqQ@iplm6Mwn4|+" x="205" y="0"><statement name="HANDLER"><block type="device_clear_display" id="x_.zf.%7]P12GB-tu(86"><next><block type="device_set_brightness" id="XL$3ZX%(-^E_;H8S{Nyx"><value name="value"><shadow type="math_number_minmax"><mutation min="0" max="255" label="Value" precision="0"></mutation><field name="SLIDER">255</field></shadow><block type="math_arithmetic" id="5M-_TZ:3=L$899OqU2Az"><field name="OP">MINUS</field><value name="A"><shadow type="math_number" id="f16c6qg5s#/bbR{iQ1Ke"><field name="NUM">255</field></shadow></value><value name="B"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_get_light_level" id=".Vqv4,eZn@,qsr%rSS%+"></block></value></block></value><next><block type="device_show_leds" id="]TQa,0q_f~)#lXzE{Gqh"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field></block></next></block></next></block></statement></block></xml>
